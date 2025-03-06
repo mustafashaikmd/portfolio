@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Innomatics Research Labs",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": ["Worked on many projects using frontend and backend technolgies"],
+    "imageSrc": "history/innomatics.jpg"
+  },
+  {
+    "role": "Data Science Intern",
+    "organisation": "Innomatics Research Labs",
+    "startDate": "Jan, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": ["Worked on Data analysis", "Worked on Data cleaning projects"],
+    "imageSrc": "history/innomatics.jpg"
+  },
+  {
+    "role": "Programmer",
+    "organisation": "SRIT",
+    "startDate": "Mar, 2020",
+    "endDate": "Apr, 2021",
+    "experiences": [
+      "Worked as a mentor"    ],
+    "imageSrc": "history/srit.jpg"
+  }
+]

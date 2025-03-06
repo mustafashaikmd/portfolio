@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Budget Tracker",
+    "imageSrc": "projects/budget.png",
+    "description": "This is a project made to track the expenses.",
+    "skills": ["HTML"],
+    "demo": "https://mustafashaikmd.github.io/budget-tracker/",
+    "source": "https://github.com/mustafashaikmd/budget-tracker"
+  },
+  {
+    "title": "Brewed Awakening",
+    "imageSrc": "projects/coffee.png",
+    "description": "This is a Coffee shop website.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://mustafashaikmd.github.io/brewed-awakening/",
+    "source": "https://github.com/mustafashaikmd/brewed-awakening"
+  },
+  {
+    "title": "Innomatics Clone",
+    "imageSrc": "projects/innomatics.jpg",
+    "description": "This is a clone of innomatics.in website.",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://mustafashaikmd.github.io/innomatics_clone/",
+    "source": "https://github.com/mustafashaikmd/innomatics_clone"
+  },
+  {
+    "title": "E-kart",
+    "imageSrc": "projects/ekart.jpg",
+    "description": "This is an E-Commerce webiste for shopping.",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://mustafashaikmd.github.io/ekart/",
+    "source": "https://github.com/mustafashaikmd/ekart"
+  },
+  {
+    "title": "Memory Card Game",
+    "imageSrc": "projects/memory.jpg",
+    "description": "This is a Memory Card Game with a attractive UI.",
+    "skills": ["HTML","CSS","JavaScript","ReactJS"],
+    "demo": "https://mustafashaikmd.github.io/Memory_game/",
+    "source": "https://github.com/mustafashaikmd/Memory_game"
+  },
+  {
+    "title": "ToDoList",
+    "imageSrc": "projects/todolist.jpg",
+    "description": "This is a ToDoList application which helps the user to create,edit and delete the tasks.",
+    "skills": ["HTML","CSS","JavaScript","ReactJS"],
+    "demo": "https://todolist-wheat-eta.vercel.app/",
+    "source": "https://github.com/mustafashaikmd/ToDoList"
+  }
+]
